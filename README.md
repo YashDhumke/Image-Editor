@@ -1,6 +1,6 @@
 # Image Editor
 
-![Screenshot (317)](https://github.com/YashDhumke/Image-Editor/assets/89930129/92b6b898-7712-4e99-92d4-1033b7dd9f0e)
+![Screenshot (321)](https://github.com/YashDhumke/Image-Editor/assets/89930129/54924bfa-f902-497a-a5c3-e6c83ace54c9)
 
 Welcome to the Image Editor project! This is a simple yet powerful web-based image editing tool created using HTML, CSS, and JavaScript. With this editor, you can perform various image manipulation tasks right from your browser.
 
